@@ -1,2 +1,4 @@
 # React.JS-project-1
-A React code built in CodePen
+A React coded calculator practice using code from 
+https://github.com/niinpatel/calculator-react
+This is not my original code, just keying practice.
